@@ -5,6 +5,8 @@ import seaborn as sns
 
 data = pd.read_csv("tips.csv")
 
+st.subheader("Tugas Davis")
+
 plt.scatter(data['day'], data['tip'])
 st.write("Scatter Plot")
 plt.xlabel('Day')
