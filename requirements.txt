@@ -2,3 +2,10 @@ streamlit
 pandas
 seaborn
 matplotlib
+beautifulsoup4
+cloudscraper
+pandas
+scrapy
+openpyxl
+gtts
+deep_translator 
